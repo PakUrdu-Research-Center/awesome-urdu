@@ -2,6 +2,8 @@
 Repository dedicated to a collection of resources and helping material for Urdu language Processing related tasks
 
 
+## Research Centers for Urdu Language
+* [Center of Language Engineering](http://www.cle.org.pk/)
 
 
 ## Useful Repositories
