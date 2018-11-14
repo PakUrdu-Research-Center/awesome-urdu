@@ -14,3 +14,4 @@ Repository dedicated to a collection of resources and helping material for Urdu 
  
 ## Research Papers
  * [Natural Language Processing for Urdu TTS Systems](http://www.cle.org.pk/Publication/papers/2002/NLP_for_urdu_TTS.pdf)
+ * [Urdu Dependency Parser: A Data-Driven approach](https://pdfs.semanticscholar.org/9ed2/3f6c65a73a8c5177acd200931f2879c915b6.pdf)
