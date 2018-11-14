@@ -4,6 +4,7 @@ Repository dedicated to a collection of resources and helping material for Urdu 
 
 ## Research Centers for Urdu Language
 * [Center of Language Engineering](http://www.cle.org.pk/)
+* [CSaLT of ITU](http://csalt.itu.edu.pk)
 
 
 ## Useful Repositories
