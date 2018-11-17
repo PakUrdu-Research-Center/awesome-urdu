@@ -14,6 +14,7 @@ Repository dedicated to a collection of resources and helping material for Urdu 
  * [Pre trained ML and NLP Models](https://github.com/urduhack/models)
  * [Urdu Summary Corpus](https://github.com/humsha/USCorpus)
  * [Urdu Date Converter](https://github.com/Shah-Abdul/UrduDateConverter)
+ * [Daily Express RSS Feed Android App](https://github.com/ameerhamza6733/ExpressDailyRssFeeds)
  
  
  ## Corpus Collections
