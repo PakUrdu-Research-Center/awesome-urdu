@@ -13,6 +13,7 @@ Repository dedicated to a collection of resources and helping material for Urdu 
  * [Urdu-Words, Collection of 10K words](https://github.com/urduhack/urdu-words)
  * [Pre trained ML and NLP Models](https://github.com/urduhack/models)
  * [Urdu Summary Corpus](https://github.com/humsha/USCorpus)
+ * [Urdu Date Converter](https://github.com/Shah-Abdul/UrduDateConverter)
  
  
  ## Corpus Collections
