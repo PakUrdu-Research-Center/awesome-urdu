@@ -17,7 +17,7 @@ Repository dedicated to a collection of resources and helping material for Urdu 
  * [Daily Express RSS Feed Android App](https://github.com/ameerhamza6733/ExpressDailyRssFeeds)
  * [Urdu-Word-Segmentation, Python](https://github.com/harisbinzia/Urdu-Word-Segmentation)
  * [Urdu Chatbot Jupiter Notebook](https://github.com/sirmadhashmi/ChatBot-Urdu-Example/blob/master/ChatBotUrdu.ipynb)
- 
+ * [Collection of Urdu Datasets](https://github.com/mirfan899/Urdu)
  
  ## Corpus Collections
  * [Wikipedia Urdu Corpus](https://www.dropbox.com/s/qoica0zhef8qzt3/wikipedia-urdu-20160407.rar) issued by [Urdu Corpus blogspot](http://urdu-corpus.blogspot.com/)
